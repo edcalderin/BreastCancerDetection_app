@@ -1,0 +1,3 @@
+Benigno
+Maligno
+Normal
